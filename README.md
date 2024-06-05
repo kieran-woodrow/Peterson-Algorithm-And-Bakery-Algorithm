@@ -55,4 +55,10 @@ Can be run in vs code or terminal.
 
 ## 📷 Screenshots
 
-![threads]()
+![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.15.50.png)
+
+![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.15.59.png)
+
+![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.29.01.png)
+
+![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.29.20.png)
